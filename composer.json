@@ -1,0 +1,16 @@
+{
+    "name": "refaat/php-mvc-framework",
+    "authors": [
+        {
+            "name": "RefaatMahmoud",
+            "email": "RefaatAishDev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {},
+    "description": "Custom MVC php framework"
+}
